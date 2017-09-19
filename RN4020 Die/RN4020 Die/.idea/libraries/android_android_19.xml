@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="android-android-19">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-19/android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug" />
+      <root url="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug" />
+      <root url="file://$PROJECT_DIR$/app/build/generated/source/r/debug" />
+      <root url="file://$PROJECT_DIR$/app/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
